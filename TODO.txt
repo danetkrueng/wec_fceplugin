@@ -1,0 +1,11 @@
+[x] in pi1/flexform_ds.xml replace hard-coded tx_templavoila_tmplobj.datastructure='56' with a dynamic value.
+
+[x] Create way to define looping, for list view.
+
+[x] Create a way to link to the single view from within the TO
+	- Containers
+	- href attrib coming from lib.something
+
+Add a "Limit" attribute for the plugin. (limit to X number of records.)
+
+Control ordering (at least order by "ordering")

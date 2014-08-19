@@ -1,0 +1,2 @@
+lib.detaillink = TEXT
+lib.detaillink.value = ###DETAILLINK###
